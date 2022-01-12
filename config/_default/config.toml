@@ -1,4 +1,4 @@
-baseURL = "https://mluengas.github.io/myblog"
+baseURL = "https://mluengas.github.io/myblog/"
 title = "Life from a cell"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2021-{year} Martin Luengas. All Rights Reserved."
