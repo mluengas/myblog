@@ -1,0 +1,20 @@
+name = "Martin Luengas"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+bio = "Investments, Spreadsheets & Cositas."
+# company = 'Company'
+# company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
+location = "Buenos Aires, Argentina."
+# alternatives:
+# location = "<a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>"
+# location = "<a href='https://www.google.com/maps/search/Earth'>Earth</a>"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  #layout = "compact"
+
+[social]
+  email = "luengas.martin@gmail.com"
+  facebook = "MartinLuengas"
+  # github = "yourgithubusername"
+  twitter = "martoluengas"
+  linkedin = "martinluengas"
